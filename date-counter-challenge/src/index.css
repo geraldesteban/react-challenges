@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+.card {
+  text-align: center;
+}
+
+.btnStyle {
+  font-size: 1.5rem;
+  font-weight: bolder;
+  margin: 1rem 1rem;
+  padding: 0.5rem 1rem;
+  border: 2px solid black;
+  background: transparent;
+
+  cursor: pointer;
+}
+
+.btnStyle:hover {
+  background: gray;
+}
+
+.dateStyle {
+  font-size: 2rem;
+}
